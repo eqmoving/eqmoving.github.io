@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on My New Hugo Site</title>
+    <link>http://example.org/page/</link>
+    <description>Recent content in Pages on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://example.org/page/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/page/privacy-policy/</guid>
+      <description>Protecting your privacy is important to us. This privacy policy covers all &amp;ldquo;Supplies For Moving, Inc.&amp;rdquo; websites. All of our websites contain similar product line, with slight variations and multiple services.
+We strive to keep your personal information confidential. By ensuring that you are aware of and understand our Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.</description>
+    </item>
+    
+  </channel>
+</rss>
